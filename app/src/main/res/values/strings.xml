@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BadAss</string>
+    <string name="which_badAss_text">请输入要变成哪个BadAss</string>
+    <string name="edit_hint">你真的渴望变身吗?</string>
+
+    <string name="confirm_btn_tex">确认变身</string>
 </resources>
